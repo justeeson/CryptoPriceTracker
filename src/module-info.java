@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author juste
+ *
+ */
+module cryptoPriceTracker {
+}
